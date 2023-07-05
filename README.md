@@ -14,22 +14,22 @@ Este projeto foi inicializado com [Create React App](https://github.com/facebook
 
 ➡️Foram criadas a pasta **components** e nela a pasta **text** com o arquivo **text.js**, sendo ele um *"componente de função Text"*, onde foi criado um texto e um dos parágrafos foi modificado, e o arquivo **text.css**, o estilo para texto.
 
-### Código **text.js**![text.js](../my-app/src/images/text.js.png)
+### Código **text.js**![text.js](./src/images/text.js.png)
 
-### Código **text.css**![text.css](../my-app/src/images/text.css.png)
+### Código **text.css**![text.css](./src/images/text.css.png)
 
-### O App.js renderizando no navegador o texto![text](../my-app/src/images/text-navegador.png)
+### O App.js renderizando no navegador o texto![text](./src/images/text-navegador.png)
 
 ## **Segundo foram criadas as pastas components/button para executar:** 
 ### Desafio 2 - Mostrar mensagem com a label do botão.
 
 ➡️ Na pasta components foi criada a pasta ***button*** com os arquivos **button.js** sendo ele um *"componente de função Button,"* onde foi criado um botão com uma mensagem alerta, e o arquivo **button.css**, os estilos para botão.
 
-### Código **button.js**![button.js](../my-app/src/images/button.js.png)
+### Código **button.js**![button.js](./src/images/button.js.png)
 
-### Código **button.css**![button.css](../my-app/src/images/button.css.png)
+### Código **button.css**![button.css](./src/images/button.css.png)
 
-### O App.js renderizando no navegador o botão com um alerta![button](../my-app/src/images/button-navegador.png)
+### O App.js renderizando no navegador o botão com um alerta![button](./src/images/button-navegador.png)
 
 ## **Scripts Disponíveis**
 
